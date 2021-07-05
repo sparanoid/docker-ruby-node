@@ -15,5 +15,3 @@ RUN apk update -f \
     && rm -rf /var/cache/apk/*
 
 RUN npm install -g grunt-cli
-
-VOLUME /opt/amsf/
