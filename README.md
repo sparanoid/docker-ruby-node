@@ -1,8 +1,10 @@
 # Docker Ruby with Node.js
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/sparanoid/ruby-node.svg)](https://hub.docker.com/r/sparanoid/ruby-node)
 
 Alpine-based Ruby with Node.js LTS Dockerfile for [Almace Scaffolding](https://sparanoid.com/lab/amsf/) or other Ruby-Node.js mixed projects.
+
+- [Docker Hub](https://hub.docker.com/r/sparanoid/ruby-node)
+- [ghcr.io](https://github.com/users/sparanoid/packages/container/package/ruby-node)
 
 # Environments
 
@@ -11,3 +13,7 @@ Alpine-based Ruby with Node.js LTS Dockerfile for [Almace Scaffolding](https://s
 - Node.js 14 LTS
 - npm
 - Yarn
+
+# License
+
+MIT
