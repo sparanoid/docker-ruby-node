@@ -10,7 +10,7 @@ Alpine-based Ruby with Node.js LTS Dockerfile for [Almace Scaffolding](https://s
 
 - Alpine
 - Ruby 3
-- Node.js 14 LTS
+- Node.js 18
 - npm
 - Yarn
 
